@@ -9,5 +9,9 @@
 
   <ItemGroup>
     <Folder Include="Helpers\" />
+    <Folder Include="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="WeatherForecast.cs" />
   </ItemGroup>
 </Project>
